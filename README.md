@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![hubways github stats](https://github-readme-stats.vercel.app/api?username=hubways&show_icons=true)](https://github.com/hubways)
+[![hubways github stats](https://github-readme-stats.vercel.app/api?username=hubways)](https://github.com/hubways)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hubways&layout=compact)](https://github.com/hubways)
 
 <!--
